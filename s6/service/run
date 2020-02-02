@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# run the service specified (make sure to use exec)
+#exec /path/to/bin
+exec ping 127.0.0.1
